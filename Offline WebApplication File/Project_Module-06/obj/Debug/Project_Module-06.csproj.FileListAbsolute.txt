@@ -1,0 +1,113 @@
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\Project_Module-06.dll.config
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\Project_Module-06.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\Project_Module-06.pdb
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\csc.exe
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\csc.exe.config
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\csc.rsp
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\csi.exe
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\csi.exe.config
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\csi.rsp
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.AppContext.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Collections.Immutable.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Console.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.IO.Compression.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.IO.FileSystem.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.IO.Pipes.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Reflection.Metadata.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Security.AccessControl.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Security.Claims.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.ValueTuple.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Xml.XPath.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\vbc.exe
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\vbc.exe.config
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\vbc.rsp
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\VBCSCompiler.exe
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\roslyn\VBCSCompiler.exe.config
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\obj\Debug\Project_Module-06.csprojAssemblyReference.cache
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\obj\Debug\Project_Module-06.csproj.CoreCompileInputs.cache
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\obj\Debug\Project_Module-06.csproj.CopyComplete
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\obj\Debug\Project_Module-06.dll
+D:\Imran Hosen-1249867\Project-Modul-06\Project_Module-06\obj\Debug\Project_Module-06.pdb
+F:\Enterprise Systems Analysis and Design C#\All Project\Module-06\Project-6th Module CGNT-41\1249867-Imran Hosen\Offline WebApplication File\Project_Module-06\obj\Debug\Project_Module-06.dll
+F:\Enterprise Systems Analysis and Design C#\All Project\Module-06\Project-6th Module CGNT-41\1249867-Imran Hosen\Offline WebApplication File\Project_Module-06\obj\Debug\Project_Module-06.pdb
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\Project_Module-06.dll.config
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\Project_Module-06.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\Project_Module-06.pdb
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\csc.exe
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\csc.exe.config
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\csc.rsp
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\csi.exe
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\csi.exe.config
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\csi.rsp
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.AppContext.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Collections.Immutable.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Console.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.IO.Compression.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.IO.FileSystem.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.IO.Pipes.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Reflection.Metadata.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Security.AccessControl.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Security.Claims.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.ValueTuple.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Xml.XPath.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\vbc.exe
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\vbc.exe.config
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\vbc.rsp
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\VBCSCompiler.exe
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\roslyn\VBCSCompiler.exe.config
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\obj\Debug\Project_Module-06.csprojAssemblyReference.cache
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\obj\Debug\Project_Module-06.csproj.CopyComplete
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\obj\Debug\Project_Module-06.dll
+E:\Git-Hub\Offline WebApplication CRUD\Offline WebApplication File\Project_Module-06\obj\Debug\Project_Module-06.pdb
